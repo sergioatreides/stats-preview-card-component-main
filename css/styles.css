@@ -115,6 +115,9 @@ p {
     }
 }
 @media screen and (max-width: 600px) {
+    .imagen {
+        background-image: url("../images/image-header-mobile.jpg");
+    }
     .stats-grid {
         grid-template-columns: 1fr;
     }
